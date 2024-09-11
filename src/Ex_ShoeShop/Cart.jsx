@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 let dat = {
-  //   console.log(this.props);
 };
 export default class Cart extends Component {
   //  console.log(this.props);
