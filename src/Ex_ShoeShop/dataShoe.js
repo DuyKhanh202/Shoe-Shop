@@ -1,4 +1,4 @@
-export let shoeArr = [
+export let dataShoe = [
   {
     id: 1,
     name: "Adidas Prophere",
